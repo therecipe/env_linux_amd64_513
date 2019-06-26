@@ -1,0 +1,12 @@
+*.jsc
+*.log
+*.pro
+*.pro.user
+*.qmake.stash
+*.qmlc
+.DS_Store
+
+*_debug*
+*.dSYM
+*.la
+*.prl
